@@ -35,7 +35,7 @@
 
 ```bash
 git clone https://github.com/ahsan-ul-alam/Ecommerce-Wazih.git
-cd your-repo-name
+cd Ecommerce-Wazih
 ```
 ### 2️⃣ Composer ও NPM dependency ইনস্টল করো
 
