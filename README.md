@@ -34,7 +34,7 @@
 ### 1️⃣ ক্লোন করো প্রজেক্টটি
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ahsan-ul-alam/Ecommerce-Wazih.git
 cd your-repo-name
 ```
 ### 2️⃣ Composer ও NPM dependency ইনস্টল করো
