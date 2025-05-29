@@ -37,7 +37,7 @@
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
-###Composer ও NPM dependency ইনস্টল করো
+### 2️⃣ Composer ও NPM dependency ইনস্টল করো
 
 ```bash
 composer install
@@ -45,14 +45,14 @@ npm install
 ```
 
 
-### .env ফাইল তৈরি ও কনফিগার করো
+### 3️⃣ .env ফাইল তৈরি ও কনফিগার করো
 
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 
-###মাইগ্রেশন চালাও এবং সার্ভার রান করো
+### 4️⃣ মাইগ্রেশন চালাও এবং সার্ভার রান করো
 
 ```bash
 php artisan migrate --seed
